@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+application
+ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AKSHIT\.android\build-cache\14677718608aed9af97bde5a191315bef012f1dc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AKSHIT\.android\build-cache\394b5ef3f45256dd45669ca09ed526d7d2cb5845\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AKSHIT\.android\build-cache\ba94f1d3fc791bec23cfff63763c2da447b876f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AKSHIT\.android\build-cache\d12d62b1fa39e618b350e160674e355dfa9690b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AKSHIT\.android\build-cache\a34b8c8ff2b0cb07bf737d64fe0602ef01697fc9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AKSHIT\.android\build-cache\7c24ef671107479290fe1e2ff44aa95c4a0573a4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AKSHIT\.android\build-cache\55cb6abb4e979b4cb94ae579f9fb49183f97aa0e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AKSHIT\.android\build-cache\f7c06254083e45b4a787373cb769ba0bd9d24f01\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AKSHIT\.android\build-cache\606eb71f63e87ba5e04a6208b0a3be7d5abbf4c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\AKSHIT\.android\build-cache\4bf5e8a33e50860f00814bc483c72ed13e62d1da\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.akshitgupta.mr.camera.MainActivity
+ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AKSHIT\.android\build-cache\14677718608aed9af97bde5a191315bef012f1dc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AKSHIT\.android\build-cache\394b5ef3f45256dd45669ca09ed526d7d2cb5845\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AKSHIT\.android\build-cache\ba94f1d3fc791bec23cfff63763c2da447b876f5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AKSHIT\.android\build-cache\d12d62b1fa39e618b350e160674e355dfa9690b7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AKSHIT\.android\build-cache\a34b8c8ff2b0cb07bf737d64fe0602ef01697fc9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AKSHIT\.android\build-cache\7c24ef671107479290fe1e2ff44aa95c4a0573a4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AKSHIT\.android\build-cache\55cb6abb4e979b4cb94ae579f9fb49183f97aa0e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AKSHIT\.android\build-cache\f7c06254083e45b4a787373cb769ba0bd9d24f01\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AKSHIT\.android\build-cache\606eb71f63e87ba5e04a6208b0a3be7d5abbf4c4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\AKSHIT\.android\build-cache\4bf5e8a33e50860f00814bc483c72ed13e62d1da\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AKSHIT\.android\build-cache\14677718608aed9af97bde5a191315bef012f1dc\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+		INJECTED from A:\aaa all\projects\Camera\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AKSHIT\.android\build-cache\14677718608aed9af97bde5a191315bef012f1dc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AKSHIT\.android\build-cache\394b5ef3f45256dd45669ca09ed526d7d2cb5845\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AKSHIT\.android\build-cache\ba94f1d3fc791bec23cfff63763c2da447b876f5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AKSHIT\.android\build-cache\d12d62b1fa39e618b350e160674e355dfa9690b7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AKSHIT\.android\build-cache\a34b8c8ff2b0cb07bf737d64fe0602ef01697fc9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AKSHIT\.android\build-cache\7c24ef671107479290fe1e2ff44aa95c4a0573a4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AKSHIT\.android\build-cache\55cb6abb4e979b4cb94ae579f9fb49183f97aa0e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AKSHIT\.android\build-cache\f7c06254083e45b4a787373cb769ba0bd9d24f01\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AKSHIT\.android\build-cache\606eb71f63e87ba5e04a6208b0a3be7d5abbf4c4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AKSHIT\.android\build-cache\14677718608aed9af97bde5a191315bef012f1dc\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AKSHIT\.android\build-cache\14677718608aed9af97bde5a191315bef012f1dc\output\AndroidManifest.xml:26:9-47
